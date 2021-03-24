@@ -1,0 +1,22 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(91fa1993-0db6-43da-8e18-c47e9193bdb3), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/sean/IdeaProjects/example/target/scala-2.13/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of a few negative numbers[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mone plus one is three (0pts)?[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of an empty list[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of a few numbers (10pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mintNotZero throws an exception if its argument is 0[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of a few repeated negative numbers[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of a few negative numbers[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of a few repeated numbers[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mdetails why one plus one is not three (0pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of a few numbers (10pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of an empty list[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mone plus one is two (0pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 12 total, 0.18s[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 12, Failed 0, Errors 0, Passed 12[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed 14-Feb-2021 20:35:59[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m

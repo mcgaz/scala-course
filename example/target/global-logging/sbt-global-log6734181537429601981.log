@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(74a130b2-e25a-4c8f-89f6-a121075e928c), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/sean/IdeaProjects/example/target/scala-2.13/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of a few negative numbers[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mone plus one is three (0pts)?[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of a few numbers (10pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mintNotZero throws an exception if its argument is 0[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of a few repeated negative numbers[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest example.[33mListsSuite[0m.[31mmax of a few repeated negative numbers[0m failed: java.lang.[31mAssertionError[0m: assertion failed, took 0.002 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Predef$.assert(Predef.scala:265)[0m
+[0m[[0m[31merror[0m] [0m[0m    at example.ListsSuite.max of a few repeated negative numbers([35mListsSuite.scala[0m:[33m117[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of a few negative numbers[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest example.[33mListsSuite[0m.[31mmax of a few negative numbers[0m failed: java.lang.[31mAssertionError[0m: assertion failed, took 0.001 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Predef$.assert(Predef.scala:265)[0m
+[0m[[0m[31merror[0m] [0m[0m    at example.ListsSuite.max of a few negative numbers([35mListsSuite.scala[0m:[33m109[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of a few repeated numbers[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mdetails why one plus one is not three (0pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of a few numbers (10pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mone plus one is two (0pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[31m2 failed[0m[34m, [0m[34m0 ignored[0m[34m, 10 total, 0.169s[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFailed: Total 10, Failed 2, Errors 0, Passed 8[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	example.ListsSuite[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed 19-Jan-2021 21:43:47[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m

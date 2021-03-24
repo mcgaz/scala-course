@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/sean/IdeaProjects/example/src/test/scala/example/ListsSuite.scala:121:24: comparing values of types Int and java.util.NoSuchElementException using `==` will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m    assert(sum(List()) == new NoSuchElementException())[0m
+[0m[[0m[33mwarn[0m] [0m[0m                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/sean/IdeaProjects/example/src/test/scala/example/ListsSuite.scala:125:24: comparing values of types Int and java.util.NoSuchElementException using `==` will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m    assert(max(List()) == new NoSuchElementException())[0m
+[0m[[0m[33mwarn[0m] [0m[0m                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m

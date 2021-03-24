@@ -1,0 +1,24 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/sean/IdeaProjects/example/target/scala-2.13/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.13' for Scala 2.13.4. Compiling...[0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 5.874s.[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/sean/IdeaProjects/example/target/scala-2.13/test-classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sean/IdeaProjects/example/src/test/scala/example/ListsSuite.scala:101:12: not found: value max[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(max(List(3, 7, 2)) == 7)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sean/IdeaProjects/example/src/test/scala/example/ListsSuite.scala:109:12: not found: value max[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(max(List(-3, -7, -2)) == 0)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sean/IdeaProjects/example/src/test/scala/example/ListsSuite.scala:117:12: not found: value max[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(max(List(-7, -7, -7)) == 0)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sean/IdeaProjects/example/src/test/scala/example/ListsSuite.scala:125:12: not found: value max[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(max(List()) == new NoSuchElementException())[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 9 s, completed 14 Feb 2021, 20:26:34[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

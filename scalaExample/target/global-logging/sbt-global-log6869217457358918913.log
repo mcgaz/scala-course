@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(5ec7be49-c65a-4ed4-bb45-acd457ded339), Some(CommandSource(console0)))[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/sean/IdeaProjects/scalaExample/target/scala-2.13/classes ...[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.13' for Scala 2.13.3. Compiling...[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 6.502s.[0m[0J
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 9 s, completed 10 Nov 2020, 20:45:04[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m[0J
